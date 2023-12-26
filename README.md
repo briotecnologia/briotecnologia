@@ -7,7 +7,7 @@
   
 ### TECHNOLOGIES IN USE
   
-  [![Our Skills](https://skillicons.dev/icons?i=aws,bots,css,discord,docker,dynamodb,express,github,graphql,html,instagram,js,linux,mysql,nodejs,postgres,postman,rabbitmq,react,redis&perline=20)](https://skillicons.dev) <img src="N8N.png" alt="New Icon" width="50" height="50" />
+  [![Our Skills](https://skillicons.dev/icons?i=aws,bots,css,discord,docker,dynamodb,express,github,graphql,html,instagram,js,linux,mysql,nodejs,postgres,postman,rabbitmq,react,redis&perline=20)](https://skillicons.dev) <img src="n8n.png" alt="New Icon" width="50" height="50" />
 
   ---
 
